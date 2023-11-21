@@ -9,6 +9,11 @@
       "clue": "what is my name?",
       "answer": "Cedrick",
       "id": 2
+    },
+    {
+      "clue": "what time is it?",
+      "answer": "adventure time",
+      "id": 3
     }
   ]
 }
