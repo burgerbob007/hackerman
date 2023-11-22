@@ -36,11 +36,6 @@
       "id": 7
     },
     {
-      "clue": "The chemical symbol for water...",
-      "answer": "H2O",
-      "id": 8
-    },
-    {
       "clue": "Seismology is the study of what?",
       "answer": "Earthquakes",
       "id": 9
@@ -71,11 +66,6 @@
       "id": 14
     },
     {
-      "clue": "The body's largest organ...",
-      "answer": "Skin",
-      "id": 15
-    },
-    {
       "clue": "Who is the king of the lemurs?",
       "answer": "King Julien",
       "id": 16
@@ -86,19 +76,9 @@
       "id": 17 
     },
     {
-      "clue": "The chemical symbol for potassium",
-      "answer": "K",
-      "id": 18
-    },
-    {
       "clue": "Spider-Man's secret identity",
       "answer": "Peter Parker",
       "id": 19
-    },
-    {
-      "clue": "What year did the titanic sink?",
-      "answer": "1912",
-      "id": 20
     },
     {
       "clue": "The hottest plannet in our solar system",
@@ -109,11 +89,6 @@
       "clue": "The process of plants to create oxygen.",
       "answer": "Photosynthesis",
       "id": 22
-    },
-    {
-      "clue": "Dora's sidekick",
-      "answer": "Boots",
-      "id": 23
     },
     {
       "clue": "Name of the baby in The Simpsons",
@@ -136,19 +111,9 @@
       "id": 27
     },
     {
-      "clue": "What has to be broken before you can use it?",
-      "answer": "Egg",
-      "id": 28
-    },
-    {
       "clue": "Something full of holes but still holds water?",
       "answer": "Sponge",
       "id": 29
-    },
-    {
-      "clue": "The end of everything",
-      "answer": "g",
-      "id": 30
     },
     {
       "clue": "I can fill a room but take up no space.",
@@ -159,21 +124,6 @@
       "clue": "It is easy to lift but hard to throw.",
       "answer": "feather",
       "id": 32
-    },
-    {
-      "clue": "I have hands but I cannot clap.",
-      "answer": "",
-      "id": 33
-    },
-    {
-      "clue": "What gets broken without being held?",
-      "answer": "promise",
-      "id": 34
-    },
-    {
-      "clue": "I am always in front of you yet you can't see me.",
-      "answer": "future",
-      "id": 35
     },
     {
       "clue": "What goes through cities but never moves?",
