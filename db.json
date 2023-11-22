@@ -11,9 +11,194 @@
       "id": 2
     },
     {
-      "clue": "what time is it?",
-      "answer": "adventure time",
+      "clue": "First MCU Movie released in 2008...",
+      "answer": "Iron Man",
       "id": 3
+    },
+    {
+      "clue": "Scooby-Doo's favorite snacks...",
+      "answer": "Scooby-Snacks",
+      "id": 4
+    },
+    {
+      "clue": "What is the largest continent?",
+      "answer": "Asia",
+      "id": 5
+    },
+    {
+      "clue": "Who was the first man on the moon?",
+      "answer": "Neil Armstrong",
+      "id": 6
+    },
+    {
+      "clue": "What type of fish is Nemo?",
+      "answer": "Clownfish",
+      "id": 7
+    },
+    {
+      "clue": "The chemical symbol for water...",
+      "answer": "H2O",
+      "id": 8
+    },
+    {
+      "clue": "Seismology is the study of what?",
+      "answer": "Earthquakes",
+      "id": 9
+    },
+    {
+      "clue": "What is the universal donor blood type?",
+      "answer": "O negative",
+      "id": 10
+    },
+    {
+      "clue": "Most Earthquake-prone country...",
+      "answer": "Japan",
+      "id": 11
+    },
+    {
+      "clue": "What galaxy are we in?",
+      "answer": "Milky Way Galaxy",
+      "id": 12
+    },
+    {
+      "clue": "What does a camel store in its hump?",
+      "answer": "fat",
+      "id": 13
+    },
+    {
+      "clue": "Nori is which type of sushi ingridient?",
+      "answer": "Seaweed",
+      "id": 14
+    },
+    {
+      "clue": "The body's largest organ...",
+      "answer": "Skin",
+      "id": 15
+    },
+    {
+      "clue": "Who is the king of the lemurs?",
+      "answer": "King Julien",
+      "id": 16
+    },
+    {
+      "clue": "Phineas and ...",
+      "answer": "Ferb",
+      "id": 17 
+    },
+    {
+      "clue": "The chemical symbol for potassium",
+      "answer": "K",
+      "id": 18
+    },
+    {
+      "clue": "Spider-Man's secret identity",
+      "answer": "Peter Parker",
+      "id": 19
+    },
+    {
+      "clue": "What year did the titanic sink?",
+      "answer": "1912",
+      "id": 20
+    },
+    {
+      "clue": "The hottest plannet in our solar system",
+      "answer": "Venus",
+      "id": 21
+    },
+    {
+      "clue": "The process of plants to create oxygen.",
+      "answer": "Photosynthesis",
+      "id": 22
+    },
+    {
+      "clue": "Dora's sidekick",
+      "answer": "Boots",
+      "id": 23
+    },
+    {
+      "clue": "Name of the baby in The Simpsons",
+      "answer": "Maggie",
+      "id": 24
+    },
+    {
+      "clue": "The second most used search engine",
+      "answer": "Bing",
+      "id": 25
+    },
+    {
+      "clue": "A planet outside our solar system",
+      "answer": "extrasolar",
+      "id": 26
+    },
+    {
+      "clue": "Author of Sherlock Holmes Novels",
+      "answer": "Arthur Conan Doyle",
+      "id": 27
+    },
+    {
+      "clue": "What has to be broken before you can use it?",
+      "answer": "Egg",
+      "id": 28
+    },
+    {
+      "clue": "Something full of holes but still holds water?",
+      "answer": "Sponge",
+      "id": 29
+    },
+    {
+      "clue": "The end of everything",
+      "answer": "g",
+      "id": 30
+    },
+    {
+      "clue": "I can fill a room but take up no space.",
+      "answer": "Light",
+      "id": 31
+    },
+    {
+      "clue": "It is easy to lift but hard to throw.",
+      "answer": "feather",
+      "id": 32
+    },
+    {
+      "clue": "I have hands but I cannot clap.",
+      "answer": "",
+      "id": 33
+    },
+    {
+      "clue": "What gets broken without being held?",
+      "answer": "promise",
+      "id": 34
+    },
+    {
+      "clue": "I am always in front of you yet you can't see me.",
+      "answer": "future",
+      "id": 35
+    },
+    {
+      "clue": "What goes through cities but never moves?",
+      "answer": "roads",
+      "id": 36
+    },
+    {
+      "clue": "from the very start, please be careful with...",
+      "answer": "my heart",
+      "id": 37
+    },
+    {
+      "clue": "What can you catch but cannot throw?",
+      "answer": "cold",
+      "id": 38
+    },
+    {
+      "clue": "A room without doors or windows.",
+      "answer": "mushroom",
+      "id": 39
+    },
+    {
+      "clue": "Forwards I am heavy, backwards I am not.",
+      "answer": "Ton",
+      "id": 40
     }
   ]
 }
